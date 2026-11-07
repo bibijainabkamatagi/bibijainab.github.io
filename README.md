@@ -20,9 +20,9 @@ Welcome to my personal portfolio! This website showcases my technical skills, pr
 2. **PhishGuard** – AI-Based Phishing Email Detector
 
 ## Connect With Me
-- GitHub: https://github.com/bibijainabkamatagi
-- LinkedIn: https://www.linkedin.com/in/bibijainab-kamatagi/
-- LeetCode: https://leetcode.com/u/BibiJainabKamatagi/
+- GitHub: [GitHub Profile](https://github.com/bibijainabkamatagi)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bibijainab-kamatagi/)
+- LeetCode: [LeetCode Profile](https://leetcode.com/u/BibiJainabKamatagi/)
 
 ## Live Portfolio
 Coming soon!
